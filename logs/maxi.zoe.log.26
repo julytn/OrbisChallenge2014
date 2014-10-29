@@ -1,0 +1,31 @@
+20/09/2014 09:48:33.160 - GameLog] - [FINE] - A new game is starting
+20/09/2014 09:48:33.315 - ResponseLog] - [FINE] - maxi responded with move SAME_DIRECTION for turn 1
+20/09/2014 09:48:33.316 - ResponseLog] - [FINE] - 0 (3, 10) wants to move RIGHT
+20/09/2014 09:48:33.317 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 1
+20/09/2014 09:48:33.318 - ResponseLog] - [FINE] - 1 (17, 10) wants to move LEFT
+20/09/2014 09:48:33.371 - ResponseLog] - [FINE] - maxi responded with move SAME_DIRECTION for turn 2
+20/09/2014 09:48:33.371 - ResponseLog] - [FINE] - 0 (4, 10) wants to move RIGHT
+20/09/2014 09:48:33.372 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 2
+20/09/2014 09:48:33.373 - ResponseLog] - [FINE] - 1 (16, 10) wants to move LEFT
+20/09/2014 09:48:33.425 - ResponseLog] - [FINE] - maxi responded with move SAME_DIRECTION for turn 3
+20/09/2014 09:48:33.426 - ResponseLog] - [FINE] - 0 (5, 10) wants to move RIGHT
+20/09/2014 09:48:33.427 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 3
+20/09/2014 09:48:33.428 - ResponseLog] - [FINE] - 1 (15, 10) wants to move LEFT
+20/09/2014 09:48:33.479 - ResponseLog] - [FINE] - maxi responded with move SAME_DIRECTION for turn 4
+20/09/2014 09:48:33.480 - ResponseLog] - [FINE] - 0 (6, 10) wants to move RIGHT
+20/09/2014 09:48:33.481 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 4
+20/09/2014 09:48:33.482 - ResponseLog] - [FINE] - 1 (14, 10) wants to move LEFT
+20/09/2014 09:48:33.535 - ResponseLog] - [FINE] - maxi responded with move SAME_DIRECTION for turn 5
+20/09/2014 09:48:33.536 - ResponseLog] - [FINE] - 0 (7, 10) wants to move RIGHT
+20/09/2014 09:48:33.536 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 5
+20/09/2014 09:48:33.537 - ResponseLog] - [FINE] - 1 (13, 10) wants to move LEFT
+20/09/2014 09:48:33.590 - ResponseLog] - [FINE] - maxi responded with move SAME_DIRECTION for turn 6
+20/09/2014 09:48:33.591 - ResponseLog] - [FINE] - 0 (8, 10) wants to move RIGHT
+20/09/2014 09:48:33.592 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 6
+20/09/2014 09:48:33.592 - ResponseLog] - [FINE] - 1 (12, 10) wants to move LEFT
+20/09/2014 09:48:33.646 - ResponseLog] - [FINE] - maxi responded with move SAME_DIRECTION for turn 7
+20/09/2014 09:48:33.647 - ResponseLog] - [FINE] - 0 (9, 10) wants to move RIGHT
+20/09/2014 09:48:33.647 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 7
+20/09/2014 09:48:33.648 - ResponseLog] - [FINE] - 1 (11, 10) wants to move LEFT
+20/09/2014 09:48:33.694 - GameLog] - [FINE] - Player maxi left
+20/09/2014 09:48:33.698 - GameLog] - [FINE] - Player zoe left

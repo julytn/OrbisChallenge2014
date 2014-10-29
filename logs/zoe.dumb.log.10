@@ -1,0 +1,927 @@
+21/09/2014 11:33:40.740 - GameLog] - [FINE] - A new game is starting
+21/09/2014 11:33:41.003 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 1
+21/09/2014 11:33:41.004 - ResponseLog] - [FINE] - 0 (3, 11) wants to move RIGHT
+21/09/2014 11:33:41.006 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 1
+21/09/2014 11:33:41.007 - ResponseLog] - [FINE] - 1 (19, 11) wants to move DOWN
+21/09/2014 11:33:41.057 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 2
+21/09/2014 11:33:41.058 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 11:33:41.058 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 2
+21/09/2014 11:33:41.059 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.121 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 3
+21/09/2014 11:33:41.121 - ResponseLog] - [FINE] - 0 (4, 10) wants to move UP
+21/09/2014 11:33:41.122 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 3
+21/09/2014 11:33:41.123 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.183 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 4
+21/09/2014 11:33:41.184 - ResponseLog] - [FINE] - 0 (4, 9) wants to move UP
+21/09/2014 11:33:41.186 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 4
+21/09/2014 11:33:41.189 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:41.245 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 5
+21/09/2014 11:33:41.246 - ResponseLog] - [FINE] - 0 (4, 8) wants to move UP
+21/09/2014 11:33:41.247 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 5
+21/09/2014 11:33:41.249 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.304 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 6
+21/09/2014 11:33:41.306 - ResponseLog] - [FINE] - 0 (4, 7) wants to move UP
+21/09/2014 11:33:41.311 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 6
+21/09/2014 11:33:41.313 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.364 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 7
+21/09/2014 11:33:41.365 - ResponseLog] - [FINE] - 0 (4, 6) wants to move UP
+21/09/2014 11:33:41.366 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 7
+21/09/2014 11:33:41.366 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.422 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 8
+21/09/2014 11:33:41.423 - ResponseLog] - [FINE] - 0 (4, 5) wants to move UP
+21/09/2014 11:33:41.429 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 8
+21/09/2014 11:33:41.430 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.485 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 9
+21/09/2014 11:33:41.485 - ResponseLog] - [FINE] - 0 (4, 4) wants to move UP
+21/09/2014 11:33:41.486 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 9
+21/09/2014 11:33:41.486 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:41.538 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 10
+21/09/2014 11:33:41.539 - ResponseLog] - [FINE] - 0 (4, 3) wants to move UP
+21/09/2014 11:33:41.542 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 10
+21/09/2014 11:33:41.543 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:41.596 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 11
+21/09/2014 11:33:41.598 - ResponseLog] - [FINE] - 0 (4, 2) wants to move UP
+21/09/2014 11:33:41.598 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 11
+21/09/2014 11:33:41.598 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.655 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 12
+21/09/2014 11:33:41.657 - ResponseLog] - [FINE] - 0 (4, 1) wants to move RIGHT
+21/09/2014 11:33:41.659 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 12
+21/09/2014 11:33:41.660 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.716 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 13
+21/09/2014 11:33:41.716 - ResponseLog] - [FINE] - 0 (5, 1) wants to move RIGHT
+21/09/2014 11:33:41.717 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 13
+21/09/2014 11:33:41.717 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.776 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 14
+21/09/2014 11:33:41.777 - ResponseLog] - [FINE] - 0 (6, 1) wants to move RIGHT
+21/09/2014 11:33:41.778 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 14
+21/09/2014 11:33:41.779 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:41.840 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 15
+21/09/2014 11:33:41.841 - ResponseLog] - [FINE] - 0 (7, 1) wants to move DOWN
+21/09/2014 11:33:41.842 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 15
+21/09/2014 11:33:41.842 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.902 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 16
+21/09/2014 11:33:41.902 - ResponseLog] - [FINE] - 0 (7, 2) wants to move DOWN
+21/09/2014 11:33:41.908 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 16
+21/09/2014 11:33:41.909 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:41.985 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 17
+21/09/2014 11:33:41.991 - ResponseLog] - [FINE] - 0 (7, 3) wants to move RIGHT
+21/09/2014 11:33:41.992 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 17
+21/09/2014 11:33:41.993 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:42.035 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 18
+21/09/2014 11:33:42.035 - ResponseLog] - [FINE] - 0 (8, 3) wants to move RIGHT
+21/09/2014 11:33:42.036 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 18
+21/09/2014 11:33:42.037 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:42.091 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 19
+21/09/2014 11:33:42.092 - ResponseLog] - [FINE] - 0 (9, 3) wants to move UP
+21/09/2014 11:33:42.092 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 19
+21/09/2014 11:33:42.092 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:42.150 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 20
+21/09/2014 11:33:42.150 - ResponseLog] - [FINE] - 0 (9, 2) wants to move UP
+21/09/2014 11:33:42.151 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 20
+21/09/2014 11:33:42.151 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:42.206 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 21
+21/09/2014 11:33:42.207 - ResponseLog] - [FINE] - 0 (9, 1) wants to move RIGHT
+21/09/2014 11:33:42.207 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 21
+21/09/2014 11:33:42.209 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:42.258 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 22
+21/09/2014 11:33:42.258 - ResponseLog] - [FINE] - 0 (10, 1) wants to move RIGHT
+21/09/2014 11:33:42.259 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 22
+21/09/2014 11:33:42.259 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:42.314 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 23
+21/09/2014 11:33:42.315 - ResponseLog] - [FINE] - 0 (11, 1) wants to move DOWN
+21/09/2014 11:33:42.316 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 23
+21/09/2014 11:33:42.317 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:42.380 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 24
+21/09/2014 11:33:42.381 - ResponseLog] - [FINE] - 0 (11, 2) wants to move DOWN
+21/09/2014 11:33:42.382 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 24
+21/09/2014 11:33:42.383 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:42.443 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 25
+21/09/2014 11:33:42.445 - ResponseLog] - [FINE] - 0 (11, 3) wants to move RIGHT
+21/09/2014 11:33:42.445 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 25
+21/09/2014 11:33:42.447 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:42.511 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 26
+21/09/2014 11:33:42.511 - ResponseLog] - [FINE] - 0 (12, 3) wants to move RIGHT
+21/09/2014 11:33:42.511 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 26
+21/09/2014 11:33:42.513 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:42.573 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 27
+21/09/2014 11:33:42.574 - ResponseLog] - [FINE] - 0 (13, 3) wants to move UP
+21/09/2014 11:33:42.574 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 27
+21/09/2014 11:33:42.574 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:42.631 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 28
+21/09/2014 11:33:42.632 - ResponseLog] - [FINE] - 0 (13, 2) wants to move UP
+21/09/2014 11:33:42.639 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 28
+21/09/2014 11:33:42.643 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:42.697 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 29
+21/09/2014 11:33:42.698 - ResponseLog] - [FINE] - 0 (13, 1) wants to move RIGHT
+21/09/2014 11:33:42.698 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 29
+21/09/2014 11:33:42.699 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:42.755 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 30
+21/09/2014 11:33:42.755 - ResponseLog] - [FINE] - 0 (14, 1) wants to move RIGHT
+21/09/2014 11:33:42.756 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 30
+21/09/2014 11:33:42.767 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:42.823 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 31
+21/09/2014 11:33:42.824 - ResponseLog] - [FINE] - 0 (15, 1) wants to move RIGHT
+21/09/2014 11:33:42.825 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 31
+21/09/2014 11:33:42.825 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:42.880 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 32
+21/09/2014 11:33:42.882 - ResponseLog] - [FINE] - 0 (16, 1) wants to move RIGHT
+21/09/2014 11:33:42.888 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 32
+21/09/2014 11:33:42.888 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:42.940 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 33
+21/09/2014 11:33:42.940 - ResponseLog] - [FINE] - 0 (17, 1) wants to move RIGHT
+21/09/2014 11:33:42.941 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 33
+21/09/2014 11:33:42.942 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:42.998 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 34
+21/09/2014 11:33:42.999 - ResponseLog] - [FINE] - 0 (18, 1) wants to move RIGHT
+21/09/2014 11:33:43.003 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 34
+21/09/2014 11:33:43.005 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.063 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 35
+21/09/2014 11:33:43.063 - ResponseLog] - [FINE] - 0 (19, 1) wants to move RIGHT
+21/09/2014 11:33:43.064 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 35
+21/09/2014 11:33:43.064 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.124 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 36
+21/09/2014 11:33:43.134 - ResponseLog] - [FINE] - 0 (20, 1) wants to move RIGHT
+21/09/2014 11:33:43.135 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 36
+21/09/2014 11:33:43.135 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.208 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 37
+21/09/2014 11:33:43.209 - ResponseLog] - [FINE] - 0 (21, 1) wants to move DOWN
+21/09/2014 11:33:43.209 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 37
+21/09/2014 11:33:43.209 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.279 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 38
+21/09/2014 11:33:43.284 - ResponseLog] - [FINE] - 0 (21, 2) wants to move DOWN
+21/09/2014 11:33:43.287 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 38
+21/09/2014 11:33:43.288 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:43.347 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 39
+21/09/2014 11:33:43.347 - ResponseLog] - [FINE] - 0 (21, 3) wants to move DOWN
+21/09/2014 11:33:43.348 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 39
+21/09/2014 11:33:43.348 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.403 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 40
+21/09/2014 11:33:43.406 - ResponseLog] - [FINE] - 0 (21, 4) wants to move DOWN
+21/09/2014 11:33:43.406 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 40
+21/09/2014 11:33:43.406 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.461 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 41
+21/09/2014 11:33:43.461 - ResponseLog] - [FINE] - 0 (21, 5) wants to move DOWN
+21/09/2014 11:33:43.462 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 41
+21/09/2014 11:33:43.462 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:43.523 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 42
+21/09/2014 11:33:43.527 - ResponseLog] - [FINE] - 0 (21, 6) wants to move DOWN
+21/09/2014 11:33:43.527 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 42
+21/09/2014 11:33:43.528 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.584 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 43
+21/09/2014 11:33:43.584 - ResponseLog] - [FINE] - 0 (21, 7) wants to move DOWN
+21/09/2014 11:33:43.584 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 43
+21/09/2014 11:33:43.585 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.647 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 44
+21/09/2014 11:33:43.647 - ResponseLog] - [FINE] - 0 (21, 8) wants to move DOWN
+21/09/2014 11:33:43.649 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 44
+21/09/2014 11:33:43.649 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.707 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 45
+21/09/2014 11:33:43.708 - ResponseLog] - [FINE] - 0 (21, 9) wants to move DOWN
+21/09/2014 11:33:43.709 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 45
+21/09/2014 11:33:43.709 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.765 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 46
+21/09/2014 11:33:43.766 - ResponseLog] - [FINE] - 0 (21, 10) wants to move DOWN
+21/09/2014 11:33:43.768 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 46
+21/09/2014 11:33:43.772 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:43.824 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 47
+21/09/2014 11:33:43.824 - ResponseLog] - [FINE] - 0 (21, 11) wants to move LEFT
+21/09/2014 11:33:43.825 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 47
+21/09/2014 11:33:43.825 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:43.893 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 48
+21/09/2014 11:33:43.894 - ResponseLog] - [FINE] - 0 (20, 11) wants to move UP
+21/09/2014 11:33:43.897 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 48
+21/09/2014 11:33:43.898 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:43.952 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 49
+21/09/2014 11:33:43.953 - ResponseLog] - [FINE] - 0 (20, 10) wants to move UP
+21/09/2014 11:33:43.953 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 49
+21/09/2014 11:33:43.953 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:44.017 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 50
+21/09/2014 11:33:44.018 - ResponseLog] - [FINE] - 0 (20, 9) wants to move UP
+21/09/2014 11:33:44.019 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 50
+21/09/2014 11:33:44.020 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:44.069 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 51
+21/09/2014 11:33:44.070 - ResponseLog] - [FINE] - 0 (20, 8) wants to move UP
+21/09/2014 11:33:44.070 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 51
+21/09/2014 11:33:44.070 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.130 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 52
+21/09/2014 11:33:44.132 - ResponseLog] - [FINE] - 0 (20, 7) wants to move UP
+21/09/2014 11:33:44.133 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 52
+21/09/2014 11:33:44.133 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:44.184 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 53
+21/09/2014 11:33:44.184 - ResponseLog] - [FINE] - 0 (20, 6) wants to move UP
+21/09/2014 11:33:44.185 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 53
+21/09/2014 11:33:44.185 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:44.241 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 54
+21/09/2014 11:33:44.288 - ResponseLog] - [FINE] - 0 (20, 5) wants to move UP
+21/09/2014 11:33:44.289 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 54
+21/09/2014 11:33:44.289 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:44.299 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 55
+21/09/2014 11:33:44.300 - ResponseLog] - [FINE] - 0 (20, 4) wants to move UP
+21/09/2014 11:33:44.300 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 55
+21/09/2014 11:33:44.300 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.363 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 56
+21/09/2014 11:33:44.365 - ResponseLog] - [FINE] - 0 (20, 3) wants to move UP
+21/09/2014 11:33:44.366 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 56
+21/09/2014 11:33:44.366 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.420 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 57
+21/09/2014 11:33:44.421 - ResponseLog] - [FINE] - 0 (20, 2) wants to move LEFT
+21/09/2014 11:33:44.422 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 57
+21/09/2014 11:33:44.423 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.479 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 58
+21/09/2014 11:33:44.480 - ResponseLog] - [FINE] - 0 (19, 2) wants to move DOWN
+21/09/2014 11:33:44.481 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 58
+21/09/2014 11:33:44.483 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.534 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 59
+21/09/2014 11:33:44.534 - ResponseLog] - [FINE] - 0 (19, 3) wants to move DOWN
+21/09/2014 11:33:44.534 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 59
+21/09/2014 11:33:44.535 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.592 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 60
+21/09/2014 11:33:44.593 - ResponseLog] - [FINE] - 0 (19, 4) wants to move DOWN
+21/09/2014 11:33:44.594 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 60
+21/09/2014 11:33:44.594 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:44.646 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 61
+21/09/2014 11:33:44.647 - ResponseLog] - [FINE] - 0 (19, 5) wants to move DOWN
+21/09/2014 11:33:44.647 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 61
+21/09/2014 11:33:44.648 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.704 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 62
+21/09/2014 11:33:44.706 - ResponseLog] - [FINE] - 0 (19, 6) wants to move DOWN
+21/09/2014 11:33:44.707 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 62
+21/09/2014 11:33:44.708 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:44.761 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 63
+21/09/2014 11:33:44.761 - ResponseLog] - [FINE] - 0 (19, 7) wants to move DOWN
+21/09/2014 11:33:44.761 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 63
+21/09/2014 11:33:44.762 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.816 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 64
+21/09/2014 11:33:44.817 - ResponseLog] - [FINE] - 0 (19, 8) wants to move DOWN
+21/09/2014 11:33:44.818 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 64
+21/09/2014 11:33:44.818 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.875 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 65
+21/09/2014 11:33:44.875 - ResponseLog] - [FINE] - 0 (19, 9) wants to move DOWN
+21/09/2014 11:33:44.875 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 65
+21/09/2014 11:33:44.876 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:44.931 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 66
+21/09/2014 11:33:44.933 - ResponseLog] - [FINE] - 0 (19, 10) wants to move LEFT
+21/09/2014 11:33:44.933 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 66
+21/09/2014 11:33:44.935 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:45.002 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 67
+21/09/2014 11:33:45.003 - ResponseLog] - [FINE] - 0 (18, 10) wants to move UP
+21/09/2014 11:33:45.004 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 67
+21/09/2014 11:33:45.005 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:45.054 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 68
+21/09/2014 11:33:45.055 - ResponseLog] - [FINE] - 0 (18, 9) wants to move UP
+21/09/2014 11:33:45.055 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 68
+21/09/2014 11:33:45.055 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:45.112 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 69
+21/09/2014 11:33:45.113 - ResponseLog] - [FINE] - 0 (18, 8) wants to move UP
+21/09/2014 11:33:45.113 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 69
+21/09/2014 11:33:45.116 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:45.181 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 70
+21/09/2014 11:33:45.182 - ResponseLog] - [FINE] - 0 (18, 7) wants to move UP
+21/09/2014 11:33:45.183 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 70
+21/09/2014 11:33:45.184 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:45.245 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 71
+21/09/2014 11:33:45.246 - ResponseLog] - [FINE] - 0 (18, 6) wants to move UP
+21/09/2014 11:33:45.246 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 71
+21/09/2014 11:33:45.246 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:45.299 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 72
+21/09/2014 11:33:45.300 - ResponseLog] - [FINE] - 0 (18, 5) wants to move UP
+21/09/2014 11:33:45.301 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 72
+21/09/2014 11:33:45.302 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:45.359 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 73
+21/09/2014 11:33:45.359 - ResponseLog] - [FINE] - 0 (18, 4) wants to move UP
+21/09/2014 11:33:45.359 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 73
+21/09/2014 11:33:45.359 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:45.419 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 74
+21/09/2014 11:33:45.420 - ResponseLog] - [FINE] - 0 (18, 3) wants to move UP
+21/09/2014 11:33:45.421 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 74
+21/09/2014 11:33:45.421 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:45.478 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 75
+21/09/2014 11:33:45.479 - ResponseLog] - [FINE] - 0 (18, 2) wants to move LEFT
+21/09/2014 11:33:45.479 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 75
+21/09/2014 11:33:45.480 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:45.542 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 76
+21/09/2014 11:33:45.543 - ResponseLog] - [FINE] - 0 (17, 2) wants to move DOWN
+21/09/2014 11:33:45.543 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 76
+21/09/2014 11:33:45.543 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:45.597 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 77
+21/09/2014 11:33:45.598 - ResponseLog] - [FINE] - 0 (17, 3) wants to move DOWN
+21/09/2014 11:33:45.598 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 77
+21/09/2014 11:33:45.598 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:45.654 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 78
+21/09/2014 11:33:45.655 - ResponseLog] - [FINE] - 0 (17, 4) wants to move DOWN
+21/09/2014 11:33:45.656 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 78
+21/09/2014 11:33:45.656 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:45.716 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 79
+21/09/2014 11:33:45.716 - ResponseLog] - [FINE] - 0 (17, 5) wants to move DOWN
+21/09/2014 11:33:45.716 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 79
+21/09/2014 11:33:45.716 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:45.774 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 80
+21/09/2014 11:33:45.774 - ResponseLog] - [FINE] - 0 (17, 6) wants to move DOWN
+21/09/2014 11:33:45.775 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 80
+21/09/2014 11:33:45.775 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:45.827 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 81
+21/09/2014 11:33:45.828 - ResponseLog] - [FINE] - 0 (17, 7) wants to move DOWN
+21/09/2014 11:33:45.828 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 81
+21/09/2014 11:33:45.828 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:45.880 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 82
+21/09/2014 11:33:45.881 - ResponseLog] - [FINE] - 0 (17, 8) wants to move DOWN
+21/09/2014 11:33:45.881 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 82
+21/09/2014 11:33:45.881 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:45.936 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 83
+21/09/2014 11:33:45.936 - ResponseLog] - [FINE] - 0 (17, 9) wants to move LEFT
+21/09/2014 11:33:45.936 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 83
+21/09/2014 11:33:45.937 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:46.005 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 84
+21/09/2014 11:33:46.006 - ResponseLog] - [FINE] - 0 (16, 9) wants to move UP
+21/09/2014 11:33:46.007 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 84
+21/09/2014 11:33:46.008 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:46.066 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 85
+21/09/2014 11:33:46.066 - ResponseLog] - [FINE] - 0 (16, 8) wants to move UP
+21/09/2014 11:33:46.067 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 85
+21/09/2014 11:33:46.067 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:46.122 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 86
+21/09/2014 11:33:46.124 - ResponseLog] - [FINE] - 0 (16, 7) wants to move UP
+21/09/2014 11:33:46.124 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 86
+21/09/2014 11:33:46.124 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:46.188 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 87
+21/09/2014 11:33:46.189 - ResponseLog] - [FINE] - 0 (16, 6) wants to move UP
+21/09/2014 11:33:46.189 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 87
+21/09/2014 11:33:46.189 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:46.243 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 88
+21/09/2014 11:33:46.244 - ResponseLog] - [FINE] - 0 (16, 5) wants to move UP
+21/09/2014 11:33:46.245 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 88
+21/09/2014 11:33:46.245 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:46.303 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 89
+21/09/2014 11:33:46.304 - ResponseLog] - [FINE] - 0 (16, 4) wants to move UP
+21/09/2014 11:33:46.304 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 89
+21/09/2014 11:33:46.304 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:46.357 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 90
+21/09/2014 11:33:46.358 - ResponseLog] - [FINE] - 0 (16, 3) wants to move UP
+21/09/2014 11:33:46.358 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 90
+21/09/2014 11:33:46.359 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:46.409 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 91
+21/09/2014 11:33:46.409 - ResponseLog] - [FINE] - 0 (16, 2) wants to move LEFT
+21/09/2014 11:33:46.409 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 91
+21/09/2014 11:33:46.409 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:46.464 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 92
+21/09/2014 11:33:46.465 - ResponseLog] - [FINE] - 0 (15, 2) wants to move DOWN
+21/09/2014 11:33:46.466 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 92
+21/09/2014 11:33:46.468 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:46.524 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 93
+21/09/2014 11:33:46.524 - ResponseLog] - [FINE] - 0 (15, 3) wants to move DOWN
+21/09/2014 11:33:46.525 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 93
+21/09/2014 11:33:46.526 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:46.581 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 94
+21/09/2014 11:33:46.582 - ResponseLog] - [FINE] - 0 (15, 4) wants to move DOWN
+21/09/2014 11:33:46.582 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 94
+21/09/2014 11:33:46.583 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:46.644 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 95
+21/09/2014 11:33:46.645 - ResponseLog] - [FINE] - 0 (15, 5) wants to move DOWN
+21/09/2014 11:33:46.646 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 95
+21/09/2014 11:33:46.646 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:46.704 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 96
+21/09/2014 11:33:46.706 - ResponseLog] - [FINE] - 0 (15, 6) wants to move DOWN
+21/09/2014 11:33:46.706 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 96
+21/09/2014 11:33:46.707 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:46.763 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 97
+21/09/2014 11:33:46.763 - ResponseLog] - [FINE] - 0 (15, 7) wants to move DOWN
+21/09/2014 11:33:46.763 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 97
+21/09/2014 11:33:46.764 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:46.814 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 98
+21/09/2014 11:33:46.814 - ResponseLog] - [FINE] - 0 (15, 8) wants to move DOWN
+21/09/2014 11:33:46.815 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 98
+21/09/2014 11:33:46.815 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:46.872 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 99
+21/09/2014 11:33:46.872 - ResponseLog] - [FINE] - 0 (15, 9) wants to move DOWN
+21/09/2014 11:33:46.872 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 99
+21/09/2014 11:33:46.872 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:46.928 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 100
+21/09/2014 11:33:46.929 - ResponseLog] - [FINE] - 0 (15, 10) wants to move DOWN
+21/09/2014 11:33:46.930 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 100
+21/09/2014 11:33:46.930 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:46.991 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 101
+21/09/2014 11:33:46.991 - ResponseLog] - [FINE] - 0 (15, 11) wants to move RIGHT
+21/09/2014 11:33:46.992 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 101
+21/09/2014 11:33:46.992 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:47.054 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 102
+21/09/2014 11:33:47.056 - ResponseLog] - [FINE] - 0 (16, 11) wants to move RIGHT
+21/09/2014 11:33:47.057 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 102
+21/09/2014 11:33:47.059 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:47.119 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 103
+21/09/2014 11:33:47.119 - ResponseLog] - [FINE] - 0 (17, 11) wants to move RIGHT
+21/09/2014 11:33:47.120 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 103
+21/09/2014 11:33:47.120 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:47.173 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 104
+21/09/2014 11:33:47.174 - ResponseLog] - [FINE] - 0 (18, 11) wants to move DOWN
+21/09/2014 11:33:47.174 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 104
+21/09/2014 11:33:47.174 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:47.225 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 105
+21/09/2014 11:33:47.226 - ResponseLog] - [FINE] - 0 (18, 12) wants to move DOWN
+21/09/2014 11:33:47.227 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 105
+21/09/2014 11:33:47.227 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:47.293 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 106
+21/09/2014 11:33:47.293 - ResponseLog] - [FINE] - 0 (18, 13) wants to move RIGHT
+21/09/2014 11:33:47.295 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 106
+21/09/2014 11:33:47.295 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:47.352 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 107
+21/09/2014 11:33:47.352 - ResponseLog] - [FINE] - 0 (19, 13) wants to move RIGHT
+21/09/2014 11:33:47.352 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 107
+21/09/2014 11:33:47.352 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:47.407 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 108
+21/09/2014 11:33:47.408 - ResponseLog] - [FINE] - 0 (20, 13) wants to move RIGHT
+21/09/2014 11:33:47.408 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 108
+21/09/2014 11:33:47.408 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:47.464 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 109
+21/09/2014 11:33:47.465 - ResponseLog] - [FINE] - 0 (21, 13) wants to move DOWN
+21/09/2014 11:33:47.465 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 109
+21/09/2014 11:33:47.465 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:47.520 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 110
+21/09/2014 11:33:47.521 - ResponseLog] - [FINE] - 0 (21, 14) wants to move DOWN
+21/09/2014 11:33:47.522 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 110
+21/09/2014 11:33:47.522 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:47.573 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 111
+21/09/2014 11:33:47.574 - ResponseLog] - [FINE] - 0 (21, 15) wants to move DOWN
+21/09/2014 11:33:47.574 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 111
+21/09/2014 11:33:47.575 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:47.633 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 112
+21/09/2014 11:33:47.636 - ResponseLog] - [FINE] - 0 (21, 16) wants to move DOWN
+21/09/2014 11:33:47.636 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 112
+21/09/2014 11:33:47.636 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:47.694 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 113
+21/09/2014 11:33:47.695 - ResponseLog] - [FINE] - 0 (21, 17) wants to move DOWN
+21/09/2014 11:33:47.695 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 113
+21/09/2014 11:33:47.695 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:47.749 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 114
+21/09/2014 11:33:47.750 - ResponseLog] - [FINE] - 0 (21, 18) wants to move DOWN
+21/09/2014 11:33:47.751 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 114
+21/09/2014 11:33:47.752 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:47.801 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 115
+21/09/2014 11:33:47.802 - ResponseLog] - [FINE] - 0 (21, 19) wants to move DOWN
+21/09/2014 11:33:47.802 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 115
+21/09/2014 11:33:47.803 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:47.857 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 116
+21/09/2014 11:33:47.858 - ResponseLog] - [FINE] - 0 (21, 20) wants to move DOWN
+21/09/2014 11:33:47.858 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 116
+21/09/2014 11:33:47.858 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:47.914 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 117
+21/09/2014 11:33:47.914 - ResponseLog] - [FINE] - 0 (21, 21) wants to move LEFT
+21/09/2014 11:33:47.914 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 117
+21/09/2014 11:33:47.915 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:47.968 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 118
+21/09/2014 11:33:47.969 - ResponseLog] - [FINE] - 0 (20, 21) wants to move UP
+21/09/2014 11:33:47.970 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 118
+21/09/2014 11:33:47.970 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:48.026 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 119
+21/09/2014 11:33:48.027 - ResponseLog] - [FINE] - 0 (20, 20) wants to move UP
+21/09/2014 11:33:48.027 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 119
+21/09/2014 11:33:48.027 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:48.081 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 120
+21/09/2014 11:33:48.082 - ResponseLog] - [FINE] - 0 (20, 19) wants to move UP
+21/09/2014 11:33:48.083 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 120
+21/09/2014 11:33:48.084 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:48.139 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 121
+21/09/2014 11:33:48.140 - ResponseLog] - [FINE] - 0 (20, 18) wants to move UP
+21/09/2014 11:33:48.140 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 121
+21/09/2014 11:33:48.140 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:48.195 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 122
+21/09/2014 11:33:48.195 - ResponseLog] - [FINE] - 0 (20, 17) wants to move UP
+21/09/2014 11:33:48.196 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 122
+21/09/2014 11:33:48.196 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:48.247 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 123
+21/09/2014 11:33:48.247 - ResponseLog] - [FINE] - 0 (20, 16) wants to move UP
+21/09/2014 11:33:48.247 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 123
+21/09/2014 11:33:48.248 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:48.303 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 124
+21/09/2014 11:33:48.303 - ResponseLog] - [FINE] - 0 (20, 15) wants to move UP
+21/09/2014 11:33:48.304 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 124
+21/09/2014 11:33:48.305 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:48.358 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 125
+21/09/2014 11:33:48.358 - ResponseLog] - [FINE] - 0 (20, 14) wants to move LEFT
+21/09/2014 11:33:48.359 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 125
+21/09/2014 11:33:48.359 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:48.410 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 126
+21/09/2014 11:33:48.410 - ResponseLog] - [FINE] - 0 (19, 14) wants to move DOWN
+21/09/2014 11:33:48.411 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 126
+21/09/2014 11:33:48.411 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:48.471 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 127
+21/09/2014 11:33:48.471 - ResponseLog] - [FINE] - 0 (19, 15) wants to move DOWN
+21/09/2014 11:33:48.472 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 127
+21/09/2014 11:33:48.472 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:48.523 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 128
+21/09/2014 11:33:48.523 - ResponseLog] - [FINE] - 0 (19, 16) wants to move DOWN
+21/09/2014 11:33:48.523 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 128
+21/09/2014 11:33:48.523 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:48.575 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 129
+21/09/2014 11:33:48.575 - ResponseLog] - [FINE] - 0 (19, 17) wants to move DOWN
+21/09/2014 11:33:48.575 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 129
+21/09/2014 11:33:48.575 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:48.634 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 130
+21/09/2014 11:33:48.634 - ResponseLog] - [FINE] - 0 (19, 18) wants to move DOWN
+21/09/2014 11:33:48.634 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 130
+21/09/2014 11:33:48.634 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:48.693 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 131
+21/09/2014 11:33:48.693 - ResponseLog] - [FINE] - 0 (19, 19) wants to move LEFT
+21/09/2014 11:33:48.694 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 131
+21/09/2014 11:33:48.694 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:48.750 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 132
+21/09/2014 11:33:48.751 - ResponseLog] - [FINE] - 0 (18, 19) wants to move UP
+21/09/2014 11:33:48.752 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 132
+21/09/2014 11:33:48.753 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:48.802 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 133
+21/09/2014 11:33:48.802 - ResponseLog] - [FINE] - 0 (18, 18) wants to move UP
+21/09/2014 11:33:48.802 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 133
+21/09/2014 11:33:48.803 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:48.856 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 134
+21/09/2014 11:33:48.857 - ResponseLog] - [FINE] - 0 (18, 17) wants to move UP
+21/09/2014 11:33:48.857 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 134
+21/09/2014 11:33:48.859 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:48.917 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 135
+21/09/2014 11:33:48.917 - ResponseLog] - [FINE] - 0 (18, 16) wants to move UP
+21/09/2014 11:33:48.918 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 135
+21/09/2014 11:33:48.918 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:48.975 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 136
+21/09/2014 11:33:48.975 - ResponseLog] - [FINE] - 0 (18, 15) wants to move UP
+21/09/2014 11:33:48.976 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 136
+21/09/2014 11:33:48.976 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:49.027 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 137
+21/09/2014 11:33:49.027 - ResponseLog] - [FINE] - 0 (18, 14) wants to move LEFT
+21/09/2014 11:33:49.028 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 137
+21/09/2014 11:33:49.028 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:49.093 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 138
+21/09/2014 11:33:49.094 - ResponseLog] - [FINE] - 0 (17, 14) wants to move UP
+21/09/2014 11:33:49.094 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 138
+21/09/2014 11:33:49.094 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.149 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 139
+21/09/2014 11:33:49.150 - ResponseLog] - [FINE] - 0 (17, 13) wants to move UP
+21/09/2014 11:33:49.150 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 139
+21/09/2014 11:33:49.151 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.206 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 140
+21/09/2014 11:33:49.206 - ResponseLog] - [FINE] - 0 (17, 12) wants to move LEFT
+21/09/2014 11:33:49.207 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 140
+21/09/2014 11:33:49.207 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.260 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 141
+21/09/2014 11:33:49.260 - ResponseLog] - [FINE] - 0 (16, 12) wants to move DOWN
+21/09/2014 11:33:49.260 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 141
+21/09/2014 11:33:49.260 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.318 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 142
+21/09/2014 11:33:49.319 - ResponseLog] - [FINE] - 0 (16, 13) wants to move DOWN
+21/09/2014 11:33:49.319 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 142
+21/09/2014 11:33:49.319 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:49.378 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 143
+21/09/2014 11:33:49.378 - ResponseLog] - [FINE] - 0 (16, 14) wants to move DOWN
+21/09/2014 11:33:49.378 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 143
+21/09/2014 11:33:49.378 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.435 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 144
+21/09/2014 11:33:49.436 - ResponseLog] - [FINE] - 0 (16, 15) wants to move RIGHT
+21/09/2014 11:33:49.436 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 144
+21/09/2014 11:33:49.438 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.491 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 145
+21/09/2014 11:33:49.491 - ResponseLog] - [FINE] - 0 (17, 15) wants to move DOWN
+21/09/2014 11:33:49.492 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 145
+21/09/2014 11:33:49.492 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:49.545 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 146
+21/09/2014 11:33:49.545 - ResponseLog] - [FINE] - 0 (17, 16) wants to move DOWN
+21/09/2014 11:33:49.545 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 146
+21/09/2014 11:33:49.546 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.597 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 147
+21/09/2014 11:33:49.598 - ResponseLog] - [FINE] - 0 (17, 17) wants to move DOWN
+21/09/2014 11:33:49.598 - ResponseLog] - [FINE] - dumb responded with move MOVE_LEFT for turn 147
+21/09/2014 11:33:49.599 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 11:33:49.654 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 148
+21/09/2014 11:33:49.656 - ResponseLog] - [FINE] - 0 (17, 18) wants to move DOWN
+21/09/2014 11:33:49.657 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 148
+21/09/2014 11:33:49.657 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:49.714 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 149
+21/09/2014 11:33:49.715 - ResponseLog] - [FINE] - 0 (17, 19) wants to move DOWN
+21/09/2014 11:33:49.715 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 149
+21/09/2014 11:33:49.716 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:49.770 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 150
+21/09/2014 11:33:49.771 - ResponseLog] - [FINE] - 0 (17, 20) wants to move RIGHT
+21/09/2014 11:33:49.771 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 150
+21/09/2014 11:33:49.771 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.827 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 151
+21/09/2014 11:33:49.828 - ResponseLog] - [FINE] - 0 (18, 20) wants to move DOWN
+21/09/2014 11:33:49.828 - ResponseLog] - [FINE] - dumb responded with move MOVE_UP for turn 151
+21/09/2014 11:33:49.828 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.885 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 152
+21/09/2014 11:33:49.887 - ResponseLog] - [FINE] - 0 (18, 21) wants to move RIGHT
+21/09/2014 11:33:49.888 - ResponseLog] - [FINE] - dumb responded with move MOVE_RIGHT for turn 152
+21/09/2014 11:33:49.889 - ResponseLog] - [FINE] - 1 (19, 12) wants to move RIGHT
+21/09/2014 11:33:49.940 - ResponseLog] - [FINE] - zoe responded with move MOVE_LEFT for turn 153
+21/09/2014 11:33:49.941 - ResponseLog] - [FINE] - 0 (19, 21) wants to move RIGHT
+21/09/2014 11:33:49.941 - ResponseLog] - [FINE] - dumb responded with move MOVE_DOWN for turn 153
+21/09/2014 11:33:49.941 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 11:33:49.985 - GameLog] - [FINE] - Player zoe left
+21/09/2014 11:33:49.995 - GameLog] - [FINE] - Player dumb left
+21/09/2014 11:38:07.011 - GameLog] - [FINE] - C:\Users\Max\PycharmProjects\Orbis_2014\grades\zoe.dumb_20.xml
+21/09/2014 11:38:13.017 - GameLog] - [FINE] - A new game is starting
+21/09/2014 11:38:13.307 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 1
+21/09/2014 11:38:13.309 - ResponseLog] - [FINE] - 0 (3, 11) wants to move UP
+21/09/2014 11:38:13.310 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 1
+21/09/2014 11:38:13.310 - ResponseLog] - [FINE] - 1 (19, 11) wants to move UP
+21/09/2014 11:38:13.377 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 2
+21/09/2014 11:38:13.378 - ResponseLog] - [FINE] - 0 (3, 10) wants to move UP
+21/09/2014 11:38:13.379 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 2
+21/09/2014 11:38:13.380 - ResponseLog] - [FINE] - 1 (19, 10) wants to move UP
+21/09/2014 11:38:13.434 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 3
+21/09/2014 11:38:13.434 - ResponseLog] - [FINE] - 0 (3, 9) wants to move UP
+21/09/2014 11:38:13.435 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 3
+21/09/2014 11:38:13.435 - ResponseLog] - [FINE] - 1 (19, 9) wants to move UP
+21/09/2014 11:38:13.495 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 4
+21/09/2014 11:38:13.496 - ResponseLog] - [FINE] - 0 (3, 8) wants to move RIGHT
+21/09/2014 11:38:13.498 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 4
+21/09/2014 11:38:13.500 - ResponseLog] - [FINE] - 1 (19, 8) wants to move UP
+21/09/2014 11:38:13.566 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 5
+21/09/2014 11:38:13.567 - ResponseLog] - [FINE] - 0 (4, 8) wants to move UP
+21/09/2014 11:38:13.567 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 5
+21/09/2014 11:38:13.568 - ResponseLog] - [FINE] - 1 (19, 7) wants to move UP
+21/09/2014 11:38:13.628 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 6
+21/09/2014 11:38:13.630 - ResponseLog] - [FINE] - 0 (4, 7) wants to move UP
+21/09/2014 11:38:13.631 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 6
+21/09/2014 11:38:13.631 - ResponseLog] - [FINE] - 1 (19, 6) wants to move UP
+21/09/2014 11:38:13.702 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 7
+21/09/2014 11:38:13.703 - ResponseLog] - [FINE] - 0 (4, 6) wants to move UP
+21/09/2014 11:38:13.703 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 7
+21/09/2014 11:38:13.708 - ResponseLog] - [FINE] - 1 (19, 5) wants to move UP
+21/09/2014 11:38:13.766 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 8
+21/09/2014 11:38:13.767 - ResponseLog] - [FINE] - 0 (4, 5) wants to move UP
+21/09/2014 11:38:13.767 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 8
+21/09/2014 11:38:13.767 - ResponseLog] - [FINE] - 1 (19, 4) wants to move UP
+21/09/2014 11:38:13.834 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 9
+21/09/2014 11:38:13.835 - ResponseLog] - [FINE] - 0 (4, 4) wants to move UP
+21/09/2014 11:38:13.838 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 9
+21/09/2014 11:38:13.843 - ResponseLog] - [FINE] - 1 (19, 3) wants to move UP
+21/09/2014 11:38:13.899 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 10
+21/09/2014 11:38:13.900 - ResponseLog] - [FINE] - 0 (4, 3) wants to move UP
+21/09/2014 11:38:13.900 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 10
+21/09/2014 11:38:13.901 - ResponseLog] - [FINE] - 1 (19, 2) wants to move UP
+21/09/2014 11:38:13.965 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 11
+21/09/2014 11:38:13.970 - ResponseLog] - [FINE] - 0 (4, 2) wants to move UP
+21/09/2014 11:38:13.972 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 11
+21/09/2014 11:38:13.974 - ResponseLog] - [FINE] - 1 (19, 1) wants to move RIGHT
+21/09/2014 11:38:14.019 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 12
+21/09/2014 11:38:14.019 - ResponseLog] - [FINE] - 0 (4, 1) wants to move RIGHT
+21/09/2014 11:38:14.020 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 12
+21/09/2014 11:38:14.020 - ResponseLog] - [FINE] - 1 (20, 1) wants to move DOWN
+21/09/2014 11:38:14.098 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 13
+21/09/2014 11:38:14.099 - ResponseLog] - [FINE] - 0 (5, 1) wants to move RIGHT
+21/09/2014 11:38:14.099 - ResponseLog] - [FINE] - zoe responded with move MOVE_DOWN for turn 13
+21/09/2014 11:38:14.100 - ResponseLog] - [FINE] - 1 (20, 2) wants to move DOWN
+21/09/2014 11:38:14.185 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 14
+21/09/2014 11:38:14.185 - ResponseLog] - [FINE] - 0 (6, 1) wants to move RIGHT
+21/09/2014 11:38:14.185 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 14
+21/09/2014 11:38:14.186 - ResponseLog] - [FINE] - 1 (20, 3) wants to move RIGHT
+21/09/2014 11:38:14.229 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 15
+21/09/2014 11:38:14.230 - ResponseLog] - [FINE] - 0 (7, 1) wants to move RIGHT
+21/09/2014 11:38:14.230 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 15
+21/09/2014 11:38:14.231 - ResponseLog] - [FINE] - 1 (21, 3) wants to move UP
+21/09/2014 11:38:14.282 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 16
+21/09/2014 11:38:14.283 - ResponseLog] - [FINE] - 0 (8, 1) wants to move RIGHT
+21/09/2014 11:38:14.283 - ResponseLog] - [FINE] - zoe responded with move MOVE_UP for turn 16
+21/09/2014 11:38:14.284 - ResponseLog] - [FINE] - 1 (21, 2) wants to move UP
+21/09/2014 11:38:14.343 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 17
+21/09/2014 11:38:14.344 - ResponseLog] - [FINE] - 0 (9, 1) wants to move RIGHT
+21/09/2014 11:38:14.345 - ResponseLog] - [FINE] - zoe responded with move MOVE_RIGHT for turn 17
+21/09/2014 11:38:14.347 - ResponseLog] - [FINE] - 1 (21, 1) wants to move RIGHT
+21/09/2014 11:38:14.419 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 18
+21/09/2014 11:38:14.419 - ResponseLog] - [FINE] - 0 (10, 1) wants to move RIGHT
+21/09/2014 11:38:14.423 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 18
+21/09/2014 11:38:14.424 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:14.559 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 19
+21/09/2014 11:38:14.561 - ResponseLog] - [FINE] - 0 (11, 1) wants to move RIGHT
+21/09/2014 11:38:14.562 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 19
+21/09/2014 11:38:14.563 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:14.660 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 20
+21/09/2014 11:38:14.662 - ResponseLog] - [FINE] - 0 (12, 1) wants to move RIGHT
+21/09/2014 11:38:14.664 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 20
+21/09/2014 11:38:14.665 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:14.745 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 21
+21/09/2014 11:38:14.746 - ResponseLog] - [FINE] - 0 (13, 1) wants to move RIGHT
+21/09/2014 11:38:14.748 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 21
+21/09/2014 11:38:14.748 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:14.831 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 22
+21/09/2014 11:38:14.833 - ResponseLog] - [FINE] - 0 (14, 1) wants to move RIGHT
+21/09/2014 11:38:14.834 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 22
+21/09/2014 11:38:14.834 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:14.923 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 23
+21/09/2014 11:38:14.925 - ResponseLog] - [FINE] - 0 (15, 1) wants to move RIGHT
+21/09/2014 11:38:14.927 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 23
+21/09/2014 11:38:14.928 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.039 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 24
+21/09/2014 11:38:15.040 - ResponseLog] - [FINE] - 0 (16, 1) wants to move RIGHT
+21/09/2014 11:38:15.041 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 24
+21/09/2014 11:38:15.042 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.111 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 25
+21/09/2014 11:38:15.113 - ResponseLog] - [FINE] - 0 (17, 1) wants to move DOWN
+21/09/2014 11:38:15.113 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 25
+21/09/2014 11:38:15.114 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.187 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 26
+21/09/2014 11:38:15.188 - ResponseLog] - [FINE] - 0 (17, 2) wants to move DOWN
+21/09/2014 11:38:15.190 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 26
+21/09/2014 11:38:15.191 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.256 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 27
+21/09/2014 11:38:15.257 - ResponseLog] - [FINE] - 0 (17, 3) wants to move DOWN
+21/09/2014 11:38:15.259 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 27
+21/09/2014 11:38:15.260 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.341 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 28
+21/09/2014 11:38:15.343 - ResponseLog] - [FINE] - 0 (17, 4) wants to move RIGHT
+21/09/2014 11:38:15.344 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 28
+21/09/2014 11:38:15.347 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.412 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 29
+21/09/2014 11:38:15.414 - ResponseLog] - [FINE] - 0 (18, 4) wants to move RIGHT
+21/09/2014 11:38:15.414 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 29
+21/09/2014 11:38:15.414 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.490 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 30
+21/09/2014 11:38:15.491 - ResponseLog] - [FINE] - 0 (19, 4) wants to move DOWN
+21/09/2014 11:38:15.493 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 30
+21/09/2014 11:38:15.495 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.573 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 31
+21/09/2014 11:38:15.574 - ResponseLog] - [FINE] - 0 (19, 5) wants to move RIGHT
+21/09/2014 11:38:15.575 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 31
+21/09/2014 11:38:15.576 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.674 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 32
+21/09/2014 11:38:15.676 - ResponseLog] - [FINE] - 0 (20, 5) wants to move RIGHT
+21/09/2014 11:38:15.676 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 32
+21/09/2014 11:38:15.677 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.743 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 33
+21/09/2014 11:38:15.745 - ResponseLog] - [FINE] - 0 (21, 5) wants to move DOWN
+21/09/2014 11:38:15.746 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 33
+21/09/2014 11:38:15.746 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.855 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 34
+21/09/2014 11:38:15.856 - ResponseLog] - [FINE] - 0 (21, 6) wants to move DOWN
+21/09/2014 11:38:15.857 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 34
+21/09/2014 11:38:15.857 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:15.933 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 35
+21/09/2014 11:38:15.934 - ResponseLog] - [FINE] - 0 (21, 7) wants to move DOWN
+21/09/2014 11:38:15.935 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 35
+21/09/2014 11:38:15.936 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.007 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 36
+21/09/2014 11:38:16.008 - ResponseLog] - [FINE] - 0 (21, 8) wants to move DOWN
+21/09/2014 11:38:16.008 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 36
+21/09/2014 11:38:16.008 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.083 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 37
+21/09/2014 11:38:16.084 - ResponseLog] - [FINE] - 0 (21, 9) wants to move DOWN
+21/09/2014 11:38:16.086 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 37
+21/09/2014 11:38:16.086 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.161 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 38
+21/09/2014 11:38:16.161 - ResponseLog] - [FINE] - 0 (21, 10) wants to move DOWN
+21/09/2014 11:38:16.162 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 38
+21/09/2014 11:38:16.165 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.290 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 39
+21/09/2014 11:38:16.291 - ResponseLog] - [FINE] - 0 (21, 11) wants to move DOWN
+21/09/2014 11:38:16.292 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 39
+21/09/2014 11:38:16.293 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.358 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 40
+21/09/2014 11:38:16.360 - ResponseLog] - [FINE] - 0 (21, 12) wants to move DOWN
+21/09/2014 11:38:16.361 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 40
+21/09/2014 11:38:16.361 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.418 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 41
+21/09/2014 11:38:16.418 - ResponseLog] - [FINE] - 0 (21, 13) wants to move DOWN
+21/09/2014 11:38:16.418 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 41
+21/09/2014 11:38:16.418 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.496 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 42
+21/09/2014 11:38:16.497 - ResponseLog] - [FINE] - 0 (21, 14) wants to move DOWN
+21/09/2014 11:38:16.497 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 42
+21/09/2014 11:38:16.499 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.564 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 43
+21/09/2014 11:38:16.565 - ResponseLog] - [FINE] - 0 (21, 15) wants to move DOWN
+21/09/2014 11:38:16.566 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 43
+21/09/2014 11:38:16.568 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.628 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 44
+21/09/2014 11:38:16.630 - ResponseLog] - [FINE] - 0 (21, 16) wants to move DOWN
+21/09/2014 11:38:16.631 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 44
+21/09/2014 11:38:16.631 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.732 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 45
+21/09/2014 11:38:16.732 - ResponseLog] - [FINE] - 0 (21, 17) wants to move DOWN
+21/09/2014 11:38:16.733 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 45
+21/09/2014 11:38:16.734 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.804 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 46
+21/09/2014 11:38:16.805 - ResponseLog] - [FINE] - 0 (21, 18) wants to move DOWN
+21/09/2014 11:38:16.805 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 46
+21/09/2014 11:38:16.806 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.878 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 47
+21/09/2014 11:38:16.879 - ResponseLog] - [FINE] - 0 (21, 19) wants to move DOWN
+21/09/2014 11:38:16.880 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 47
+21/09/2014 11:38:16.881 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:16.943 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 48
+21/09/2014 11:38:16.944 - ResponseLog] - [FINE] - 0 (21, 20) wants to move DOWN
+21/09/2014 11:38:16.944 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 48
+21/09/2014 11:38:16.946 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.009 - ResponseLog] - [FINE] - Max responded with move MOVE_LEFT for turn 49
+21/09/2014 11:38:17.009 - ResponseLog] - [FINE] - 0 (21, 21) wants to move LEFT
+21/09/2014 11:38:17.010 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 49
+21/09/2014 11:38:17.010 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.069 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 50
+21/09/2014 11:38:17.072 - ResponseLog] - [FINE] - 0 (20, 21) wants to move UP
+21/09/2014 11:38:17.074 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 50
+21/09/2014 11:38:17.075 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.123 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 51
+21/09/2014 11:38:17.123 - ResponseLog] - [FINE] - 0 (20, 20) wants to move UP
+21/09/2014 11:38:17.124 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 51
+21/09/2014 11:38:17.124 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.183 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 52
+21/09/2014 11:38:17.184 - ResponseLog] - [FINE] - 0 (20, 19) wants to move UP
+21/09/2014 11:38:17.185 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 52
+21/09/2014 11:38:17.185 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.249 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 53
+21/09/2014 11:38:17.251 - ResponseLog] - [FINE] - 0 (20, 18) wants to move UP
+21/09/2014 11:38:17.252 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 53
+21/09/2014 11:38:17.253 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.318 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 54
+21/09/2014 11:38:17.318 - ResponseLog] - [FINE] - 0 (20, 17) wants to move UP
+21/09/2014 11:38:17.320 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 54
+21/09/2014 11:38:17.320 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.387 - ResponseLog] - [FINE] - Max responded with move MOVE_LEFT for turn 55
+21/09/2014 11:38:17.389 - ResponseLog] - [FINE] - 0 (20, 16) wants to move LEFT
+21/09/2014 11:38:17.389 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 55
+21/09/2014 11:38:17.392 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.447 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 56
+21/09/2014 11:38:17.448 - ResponseLog] - [FINE] - 0 (19, 16) wants to move DOWN
+21/09/2014 11:38:17.448 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 56
+21/09/2014 11:38:17.448 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.525 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 57
+21/09/2014 11:38:17.525 - ResponseLog] - [FINE] - 0 (19, 17) wants to move DOWN
+21/09/2014 11:38:17.526 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 57
+21/09/2014 11:38:17.526 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.592 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 58
+21/09/2014 11:38:17.593 - ResponseLog] - [FINE] - 0 (19, 18) wants to move DOWN
+21/09/2014 11:38:17.594 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 58
+21/09/2014 11:38:17.594 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.648 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 59
+21/09/2014 11:38:17.649 - ResponseLog] - [FINE] - 0 (19, 19) wants to move DOWN
+21/09/2014 11:38:17.649 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 59
+21/09/2014 11:38:17.649 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.715 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 60
+21/09/2014 11:38:17.716 - ResponseLog] - [FINE] - 0 (19, 20) wants to move DOWN
+21/09/2014 11:38:17.718 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 60
+21/09/2014 11:38:17.718 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.786 - ResponseLog] - [FINE] - Max responded with move MOVE_LEFT for turn 61
+21/09/2014 11:38:17.786 - ResponseLog] - [FINE] - 0 (19, 21) wants to move LEFT
+21/09/2014 11:38:17.787 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 61
+21/09/2014 11:38:17.790 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.848 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 62
+21/09/2014 11:38:17.849 - ResponseLog] - [FINE] - 0 (18, 21) wants to move UP
+21/09/2014 11:38:17.849 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 62
+21/09/2014 11:38:17.849 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.928 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 63
+21/09/2014 11:38:17.928 - ResponseLog] - [FINE] - 0 (18, 20) wants to move UP
+21/09/2014 11:38:17.929 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 63
+21/09/2014 11:38:17.931 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:17.998 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 64
+21/09/2014 11:38:17.999 - ResponseLog] - [FINE] - 0 (18, 19) wants to move UP
+21/09/2014 11:38:17.999 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 64
+21/09/2014 11:38:18.000 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.062 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 65
+21/09/2014 11:38:18.062 - ResponseLog] - [FINE] - 0 (18, 18) wants to move UP
+21/09/2014 11:38:18.064 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 65
+21/09/2014 11:38:18.064 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.124 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 66
+21/09/2014 11:38:18.125 - ResponseLog] - [FINE] - 0 (18, 17) wants to move UP
+21/09/2014 11:38:18.125 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 66
+21/09/2014 11:38:18.126 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.189 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 67
+21/09/2014 11:38:18.189 - ResponseLog] - [FINE] - 0 (18, 16) wants to move UP
+21/09/2014 11:38:18.190 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 67
+21/09/2014 11:38:18.191 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.247 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 68
+21/09/2014 11:38:18.248 - ResponseLog] - [FINE] - 0 (18, 15) wants to move UP
+21/09/2014 11:38:18.248 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 68
+21/09/2014 11:38:18.249 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.311 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 69
+21/09/2014 11:38:18.312 - ResponseLog] - [FINE] - 0 (18, 14) wants to move UP
+21/09/2014 11:38:18.312 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 69
+21/09/2014 11:38:18.313 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.406 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 70
+21/09/2014 11:38:18.406 - ResponseLog] - [FINE] - 0 (18, 13) wants to move UP
+21/09/2014 11:38:18.407 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 70
+21/09/2014 11:38:18.407 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.467 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 71
+21/09/2014 11:38:18.469 - ResponseLog] - [FINE] - 0 (18, 12) wants to move RIGHT
+21/09/2014 11:38:18.472 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 71
+21/09/2014 11:38:18.472 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.526 - ResponseLog] - [FINE] - Max responded with move MOVE_RIGHT for turn 72
+21/09/2014 11:38:18.526 - ResponseLog] - [FINE] - 0 (19, 12) wants to move RIGHT
+21/09/2014 11:38:18.527 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 72
+21/09/2014 11:38:18.527 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.591 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 73
+21/09/2014 11:38:18.592 - ResponseLog] - [FINE] - 0 (20, 12) wants to move DOWN
+21/09/2014 11:38:18.594 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 73
+21/09/2014 11:38:18.595 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.651 - ResponseLog] - [FINE] - Max responded with move MOVE_DOWN for turn 74
+21/09/2014 11:38:18.652 - ResponseLog] - [FINE] - 0 (20, 13) wants to move DOWN
+21/09/2014 11:38:18.653 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 74
+21/09/2014 11:38:18.653 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.720 - ResponseLog] - [FINE] - Max responded with move MOVE_LEFT for turn 75
+21/09/2014 11:38:18.721 - ResponseLog] - [FINE] - 0 (20, 14) wants to move LEFT
+21/09/2014 11:38:18.721 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 75
+21/09/2014 11:38:18.721 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.778 - ResponseLog] - [FINE] - Max responded with move MOVE_UP for turn 76
+21/09/2014 11:38:18.779 - ResponseLog] - [FINE] - 0 (19, 14) wants to move UP
+21/09/2014 11:38:18.779 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 76
+21/09/2014 11:38:18.780 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.843 - ResponseLog] - [FINE] - Max responded with move MOVE_LEFT for turn 77
+21/09/2014 11:38:18.844 - ResponseLog] - [FINE] - 0 (19, 13) wants to move LEFT
+21/09/2014 11:38:18.844 - ResponseLog] - [FINE] - zoe responded with move SAME_DIRECTION for turn 77
+21/09/2014 11:38:18.845 - ResponseLog] - [FINE] - 1 (22, 1) wants to move RIGHT
+21/09/2014 11:38:18.854 - GameLog] - [FINE] - Player Max left
+21/09/2014 11:38:18.904 - GameLog] - [FINE] - Player zoe left
